@@ -17,7 +17,7 @@ SECRET_KEY = 'django-insecure-+3*nyiwqv02)j2w97l+h2^$x!)ztkqdhys4*r^v62dbo7#4uxt
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dentist100.herokuapp.com',]
 
 
 # Application definition
